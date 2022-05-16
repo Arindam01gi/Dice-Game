@@ -1,0 +1,39 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice{
+  text-align: center;
+  display: inline-block;
+
+}
+body{
+  background-color:  #393E46;
+}
+h1{
+  color: rgba(13, 228, 199, 0.422);
+  font-family:  'Lobster', cursive;
+  font-size: 8rem;
+  margin: 30px;
+  
+}
+
+p{
+  padding-top: 1px;
+  font-family: 'Great Vibes', cursive;
+  font-size: 40px;
+  color: rgba(13, 228, 199, 0.422);
+}
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
